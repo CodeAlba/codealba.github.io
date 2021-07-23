@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<img align="right" width="400" height="400" src="/images/Homer_Simpson.png">
+# <img align="right" width="400" height="400" src="/images/Homer_Simpson.png">
 
 You can use the [editor on GitHub](https://github.com/CodeAlba/codealba.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
