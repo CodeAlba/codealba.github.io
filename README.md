@@ -1,37 +1,38 @@
-## Welcome to Centre REAL GitHub pages
+# Welcome to REALs test github homepage
+No fancy plugins used to create the homepage - just markdown and html from the README.md file  
+And image files in /images sub folder
 
-You can use the [editor on GitHub](https://github.com/CodeAlba/codealba.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<!-- comments out the code -->
+<!-- the below code places the image using default markdown settings
+<!-- ![Team Logo](/images/Homer_Simpson.png) -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### You will find our repositories [here](https://github.com/centrereal?tab=repositories)
 
-### Markdown
+## Team members and collaborators
+Our team consists of...  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Members of the team**  
 
-```markdown
-Syntax highlighted code block
+* Homer Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/homerjsimpson)
 
-# Header 1
-## Header 2
-### Header 3
+**Collaborators**  
 
-- Bulleted
-- List
+* Bart Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/thesimpsons)
 
-1. Numbered
-2. List
+## Approach to working openly  
+We work openly to share our approach, methods and areas of research.
+We use open source tools; and opt for what we consider to be the correct tool for the correct task
 
-**Bold** and _Italic_ and `Code` text
+## Data sources and data management
+We use open source data which we can share  
+Where we use sensitive data, we can describe it, but cannot comment on the exact contents or reference the names of any files used
 
-[Link](url) and ![Image](src)
-```
+For further information, please contact us
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Publications
+Some publication text
 
-### Jekyll Themes
+## Contact us
+Contact us
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CodeAlba/codealba.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Some text with contact details
