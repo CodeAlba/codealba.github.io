@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Centre of REAL GitHub Site
 GitHub repo: https://github.com/CodeAlba
-logo:
+logo: /images/Homer_Simpson.png
 show_downloads: false
 #  logo is in .md file /images/Homer_Simpson.png # logo from .md file
