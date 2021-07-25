@@ -1,6 +1,4 @@
-# Welcome to REALs test github homepage
-No fancy plugins used to create the homepage - just markdown and html from the README.md file  
-And image files in /images sub folder
+# Welcome to code Alba
 
 <!-- comments out the code -->
 <!-- the below code places the image using default markdown settings
