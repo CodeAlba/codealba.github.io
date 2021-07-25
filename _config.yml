@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
 title: Centre of REAL GitHub Site
 description: Blogs and Repos
 GitHub repo: https://github.com/CentreREAL
