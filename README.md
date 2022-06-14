@@ -13,7 +13,13 @@ Our team consists of...
 
 * Homer Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/homerjsimpson)
 
-**Collaborators**  
+**Collaborators**
+
+* Barney
+* Marge
+* Bart
+* Maggie
+* Lisa  
 
 * Bart Simpson - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/thesimpsons)
 
