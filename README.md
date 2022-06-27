@@ -1,4 +1,5 @@
 # Welcome to code Alba
+A little Jekyll used - but only in the .yaml file
 
 <!-- comments out the code -->
 <!-- the below code places the image using default markdown settings
