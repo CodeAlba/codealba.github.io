@@ -6,6 +6,7 @@ A little Jekyll used - but only in the _config.yml file
 <!-- ![Team Logo](/images/Homer_Simpson.png) -->
 
 #### You will find our repositories [here](https://github.com/codealba?tab=repositories)
+#### You will find our blogs [here] (https://codealba.github.io/blog/)
 
 ## Team members and collaborators
 Our team consists of...  
