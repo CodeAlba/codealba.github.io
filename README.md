@@ -36,6 +36,11 @@ For further information, please contact us
 ## Publications
 Some publication text
 
+<!-- BLOG-POST-LIST:START -->
+- [blog 1]
+- [blog 2]
+<!-- BLOG-POST-LIST:END -->
+
 ## Contact us
 Contact us
 
