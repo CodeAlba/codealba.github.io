@@ -1,5 +1,5 @@
 # Welcome to code Alba
-A little Jekyll used - but only in the _config.yml file
+A little Jekyll used
 
 <!-- comments out the code -->
 <!-- the below code places the image using default markdown settings
