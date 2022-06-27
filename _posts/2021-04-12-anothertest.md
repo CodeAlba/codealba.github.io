@@ -3,6 +3,7 @@ layout: post
 title: Here's Some Perl
 date: 2021-04-12
 categories: Perl GitHub
+featured_image: featured-image.jpg
 ---
 
 ## Structure your posts
@@ -15,7 +16,7 @@ to structure your posts.
 You can display a block of code like the following using triple backticks.
 You can also specify the language after the first triple backticks.
 
-```perl
+```console
 #!/usr/bin/perl
 use strict;
 use warnings;
