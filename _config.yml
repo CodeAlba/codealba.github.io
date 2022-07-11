@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: Our GitHub home page
 description: Blogs and Repos
 Gihub: https://github.com/codealba
-logo: /images/Homer_Simpson.png
+logo: /images/MicrosoftTeams-image.png
 show_downloads: true
 permalink: /blog/:year/:month/:day/:title
